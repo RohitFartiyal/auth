@@ -5,7 +5,7 @@ A complete authentication system built with:
 - **Frontend:** React + TypeScript + Tailwind CSS + React Hook Form + Zod + React Query
 - **Backend:** Node.js + Express + Prisma + PostgreSQL + JWT + bcrypt
 
-## 🔧 Features
+##  Features
 
 - User registration and login
 - Form validation with Zod
@@ -14,7 +14,7 @@ A complete authentication system built with:
 - Protected API routes
 - Tailwind CSS styling
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Backend
 
