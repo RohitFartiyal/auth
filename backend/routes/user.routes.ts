@@ -1,4 +1,4 @@
-// routes/user.routes.ts
+
 import express from 'express';
 import { registerUser, loginUser } from '../controllers/user.controller';
 
